@@ -1,3 +1,5 @@
+from get_ascii import get_ascii
+from get_binary import get_binary
 def get_result(palabra):
 
     resultado = []
